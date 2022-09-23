@@ -3,7 +3,7 @@
 This is term project from DL_NLP_101 course
 MobileViT block is implemented based on YOLOv4 architecture
 
-You can see [vitblock] in cfg file
+You can see [vitblock] in your cfg file
 MobileViT block can be added by simply adding [vitblock] in the cfg file
 ```
 [vitblock]
@@ -18,10 +18,10 @@ depth=4
 ~Will be written~ 
 
 ## Result
-Max epoch : 300
-MobileViT block depth : 2
-Patch size : 4/8
-Training size : 512x512 (Original dataset size is 1280x1280)
+Max epoch : 300\
+MobileViT block depth : 2\
+Patch size : 4/8\
+Training size : 512x512 (Original image size is 1280x1280)
 
 ### YOLOv4
 Dataset : DOTA
