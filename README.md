@@ -1,7 +1,7 @@
 # YOLOv4+MobileViT
 
 ~This is term project from DL_NLP_101 course from CNU~\
-MobileViT block is implemented based on YOLOv4 architecture
+[MobileViT](https://github.com/chinhsuanwu/mobilevit-pytorch) block is implemented based on [PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
 
 You can see [vitblock] in your cfg file
 MobileViT block can be added by simply adding [vitblock] in the cfg file
@@ -50,7 +50,5 @@ Training size : 512x512 (Original image size is 1280x1280)
 |mAP:0.5-0.95|33.13%|35.42%|33.91%|35.94|33.13%|
 
 ## Acknowledgements
-
-* [https://github.com/hugman/DL_NLP_101](https://github.com/hugman/DL_NLP_101)
 * [https://github.com/WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
 * [https://github.com/chinhsuanwu/mobilevit-pytorch](https://github.com/chinhsuanwu/mobilevit-pytorch)
