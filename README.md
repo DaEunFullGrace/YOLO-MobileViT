@@ -25,17 +25,18 @@ Training size : 512x512 (Original image size is 1280x1280)
 
 ### YOLOv4
 #### DOTA
-||Baseline|Neck(patch size:4)|
+||Baseline|with vitblock|
 |------|---|---|
 |mAP:0.5|59.1%|64.8%|
 |mAP:0.5-0.95|34.7%|38.77%|
 
 #### Vehicle from DOTA (small vehicle + large vehicle class)
-||Baseline|Neck(patch size:4)|
+||Baseline|with vitblock|
 |------|---|---|
 |mAP:0.5|81.5%|79.4%|
 |mAP:0.5-0.95|45.8%|48.4%|
 
+<!--
 ### YOLOv4-Tiny
 #### DOTA
 ||Baseline|Neck(patch size:4)|Neck(patch size:8)|Backbone(patch size:4)|Backbone+Neck|
@@ -48,6 +49,7 @@ Training size : 512x512 (Original image size is 1280x1280)
 |------|---|---|---|---|---|
 |mAP:0.5|61.69%|64.08%|63.05%|62.25%|64.4%|
 |mAP:0.5-0.95|33.13%|35.42%|33.91%|35.94|33.13%|
+-->
 
 ## Acknowledgements
 * [https://github.com/WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
