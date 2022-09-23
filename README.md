@@ -3,8 +3,8 @@
 ~This is term project from DL_NLP_101 course from CNU~\
 [MobileViT](https://github.com/chinhsuanwu/mobilevit-pytorch) block is implemented based on [PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
 
-You can see [vitblock] in your cfg file
-MobileViT block can be added by simply adding [vitblock] in the cfg file
+You can see [vitblock] in a *.cfg file\
+MobileViT block can be added by simply adding [vitblock] in the *.cfg
 ```
 [vitblock]
 filters=512
