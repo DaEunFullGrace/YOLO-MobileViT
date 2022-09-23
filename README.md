@@ -52,5 +52,5 @@ Dataset : Vehicle from DOTA (small vehicle + large vehicle class)
 ## Acknowledgements
 
 * [https://github.com/hugman/DL_NLP_101](https://github.com/hugman/DL_NLP_101)
-* [https://github.com/WongKinYiu/PyTorch_YOLOv4] (https://github.com/WongKinYiu/PyTorch_YOLOv4)
-* [https://github.com/chinhsuanwu/mobilevit-pytorch] (https://github.com/chinhsuanwu/mobilevit-pytorch)
+* [https://github.com/WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
+* [https://github.com/chinhsuanwu/mobilevit-pytorch](https://github.com/chinhsuanwu/mobilevit-pytorch)
