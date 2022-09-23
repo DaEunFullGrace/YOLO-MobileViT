@@ -1,0 +1,1 @@
+python3 train.py --batch-size 32 --img 512 512 --data ./data/dota.yaml --weights '' --name yolov4-full-class --epochs 300 --project ./runs/train/baseline/yolov4/ --device 0,1,2,3 --cfg ./cfg/yolov4-full-class.cfg --resume 
